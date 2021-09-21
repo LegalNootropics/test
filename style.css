@@ -1,0 +1,14 @@
+.body {
+    background: white;
+    width: flex;
+    height: flex;
+    justify-content: space-evenly;
+}
+
+.shape {
+    display: flow;
+    flex-wrap: flow;
+    max-width: inherit;
+}
+
+.shape::after, .shape::before {
